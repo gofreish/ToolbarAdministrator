@@ -1,10 +1,5 @@
-# ToolbarAdministrator
-Application Laravel permettant l'administration de la barre de Menu
 ## A propos du projet
-Cette application est une applciation 
-<a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">Laravel</a>
-
-qui permet <em> l'administration de la barre de Menu</em>
+Cette application est une applciation Laravel qui permet <em> l'administration de la barre de Menu</em>
 ## Fonctionnalités
 Cette version contient les fonctionnalités suivantes : 
 <ul>
@@ -19,7 +14,5 @@ Cette version contient les fonctionnalités suivantes :
     </li>
     <li>Le menu peut être réduis</li>
 </ul>
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## Créer avec 
+<a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a>
